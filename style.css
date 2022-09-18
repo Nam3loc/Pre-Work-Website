@@ -1,0 +1,83 @@
+body{
+    background-color: gray; 
+}
+p{
+    font-size: 16px;
+}
+li{
+    font-family: Sans-Serif;
+}
+a{
+    color: purple;
+}
+h2{
+    font-family: Sans-Serif;
+}
+h3{
+    font-family: Arial;
+}
+.center-text{
+    text-align: center;
+}
+.font-size{
+    font-size: 16px;
+}
+.font-size2{
+    font-size: 24px;
+}
+#lister{
+    font-size: 24px;
+}
+span{
+    font-size: 32px;
+    font-family: Fantasy;
+    text-transform: capitalize;
+}
+.text{
+    font-size: 20px;
+    }
+form{
+    color: bcbbbc;
+    border: solid;
+    margin: 0 auto;
+    display: flex;
+    max-width: 25%;
+    justify-content: center;
+    align-content: center;
+}
+#picture{
+    display: block;
+    margin: 0 auto;
+    max-width: 25%;
+}
+.hobbies{
+    display: block;
+    align-items: center;
+}
+#div3{
+    margin-left: auto;
+    margin-right: auto;
+}
+#div4{
+    display: block;
+    margin: 0 auto;
+    max-width: 25%;
+}
+/*#div1{
+    background-color: red;
+}
+#div2{
+    background-color: orange;
+}
+#div1, #div2{
+    border: dashed;
+}
+#div3{
+        background-color: yellow;
+    }
+#div4{
+    background-color: green;
+}
+#div3, #div4{
+    border: dashed;
+}*/
